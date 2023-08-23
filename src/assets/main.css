@@ -1,0 +1,51 @@
+.font-style-heading {
+    font-family: Lato !important;
+    font-size: 18px !important;
+    font-weight: 600 !important;
+}
+
+.font-style-heading-auth {
+    font-family: Lato !important;
+    font-size: 32px !important;
+    font-weight: 600 !important;
+    font-style: normal;
+}
+
+.font-style-paragraph {
+    font-family: Lato !important;
+    font-size: 13px !important;
+    font-weight: 400 !important;
+}
+
+span.text-caption.font-style-paragraph {
+    font-family: Lato !important;
+    font-size: 13px !important;
+    font-weight: 400 !important;
+}
+
+.default-input-field {
+    border: solid 1px #ebeef7;
+    font-size: 13px !important;
+    font-family: Lato !important;
+}
+
+.font-style-section-heading {
+    font-family: Lato !important;
+    font-size: 13px !important;
+    font-weight: 600 !important;
+}
+ 
+.v-application p {
+    margin-bottom: 4px !important;
+}
+
+.default-input {
+    border: solid 1px #ebeef7;
+    border-radius: 5px;
+    height: 50px;
+    width: 411px;
+    font-size: 13px;
+    font-family: Lato !important;
+  }
+
+
